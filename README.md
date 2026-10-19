@@ -1,2 +1,3 @@
 # Three-Flood-Forecasting-Models-for-Majiagou-BMA-and-Kalman-Filter-Data-Assimilation
 Three Flood Forecasting Models for the Majiagou Catchment, Bayesian Model Averaging and Kalman Filter-Based Data Assimilation
+This repository contains the datasets and source codes for flood forecasting research in the Majiagou catchment. Three hydrological models (Xin'anjiang model, Tank model and TOPMODEL), Bayesian Model Averaging (BMA) multi-model ensemble method and Ensemble Kalman Filter (EnKF) data assimilation are implemented in this project. The performance of three individual models and the BMA ensemble are compared and analyzed based on four flood events, using the 95PPU and other evaluation metrics.
